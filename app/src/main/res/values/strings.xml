@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Bumi Langit</string>
+    <string-array name="character_name">
+        <item>Aquanus</item>
+        <item>Godam</item>
+        <item>Gundala</item>
+        <item>Mandala</item>
+        <item>Merpati</item>
+        <item>Camar</item>
+        <item>Cempaka</item>
+        <item>Tira</item>
+        <item>Sri Asih</item>
+        <item>Dewi Api</item>
+    </string-array>
+    <string-array name="detail">
+        <item>Dhanus dilahirkan di planet Zyba, sebuah planet yang dihuni bangsa amfibi. Dhanus kemudian dibesarkan di bumi dan menjadi seorang superhero, Aquanus. Kediaman Aquanus, Pulau Berhala, sering menjadi tempat berkumpul rekan-rekan superheronya. Aquanus juga memiliki sebuah kapal selam berteknologi canggih.
+            \n\nKekuatan: Memiliki kemampuan berenang melebihi kecepatan segala mahluk laut; Memiliki ikat pinggang yang dapat memancarkan Sinar Pelangi yang dahsyat.
+            \n\nMusuh: Bocah Atlantis, Doktor Setan, Ghazul, Pengkor</item>
+        <item>Seorang bayi dibuang oleh orang tuanya, panglima perang yang gagal kudeta, karena khawatir akan dibunuh oleh sang penguasa. Bayi itu ditemukan oleh sekelompok perampok dan diberi nama Godam. Setelah dewasa, Godam berpetualang sampai mendapatkan baju, jubah dan cincin sakti. Namun karena melanggar sumpah, Godam dihukum dengan dimasukkan ke dalam cincin sakti. Bapa Kebenaran kemudian memberikan cincin itu kepada Awang, seorang manusia bumi yang sederhana. Setiap kali Awang menggunakan cincin tersebut, ia akan berubah wujud menjadi Godam.
+            \n\nKekuatan: Memiliki kekuatan yang luar biasa dan dapat terbang secepat suara; Kebal terhadap senjata apapun (Namun akan hilang jika ia melanggar sumpah).
+            \n\nMusuh: Bocah Atlantis, Doktor Setan</item>
+        <item>Seorang insinyur jenius, Sancaka bertekad untuk menemukan serum anti petir. Pada suatu kejadian yang aneh, Sancaka tersambar petir. Ternyata Sancaka dijadikan putra angkat Kronz, Raja dari Kerajaan Petir. Kronz memberi Sancaka sebuah kalung ajaib yang dapat mengubah dirinya menjadi seorang manusia super, Gundala. Gundala juga dikenal karena intuisinya dalam memecahkan kasus kejahatan yang rumit.
+            \n\nKekuatan: Memiliki kemampuan mengeluarkan petir dengan berbagai macam intensitas dari tangannya; Memiliki tinju petir dan dapat berlari secepat angin taufan.
+            \n\nMusuh: Ghazul</item>
+        <item>Mandala semenjak kecil dibesarkan oleh Nyi Nara Sati, Ratu Siluman Buaya Putih. Setelah dewasa, Mandala melarikan diri dari Negeri Siluman. Dengan bimbingan pamannya, Batara Si Pendekar Lengan Tunggal, Mandala menjadi seorang pendekar sakti dan sosok yang disegani serta dihormati.
+            \n\nKekuatan: Memiliki jurus tenaga dalam Gelombang Batu Karang yang dapat menghancurkan batu karang berkeping-keping. Menguasai ilmu silat dan pedang yang tinggi; Sukar dicari tandingannya.</item>
+        <item>Merpati atau Sedhah Esti Wulan aslinya adalah seorang wartawati yang gemar menekuni bela diri. Suatu saat dirinya jatuh ke jurang dan diselamatkan oleh sekelompok merpati. Ternyata merpati-merpati tersebut membawanya ke hadapan seorang ratu bernama Doves. Sedhah pun diberi sebuah ramuan ajaib hingga dirinya bisa menjadi seorang superhero. Dikatakan Merpati punya kekuatan terbang dengan navigasi super, dan punya tenaga setara dengan 20 laki-laki dewasa!.</item>
+        <item>Tahun 1910, di pantai sebuah pulau di Maluku, seorang pendekar kampung melarikan diri bersama seorang gadis Belanda dari kejaran tentara kolonial Belanda. Sang pendekar kemudian menciptakan jurus bela diri khusus bernama Camar dan melatih para keturunannya untuk dapat melawan penjajah.
+            Keturunannya yang termuda, Motila, adalah yang paling berbakat dan menjadi seorang superhero wanita, Camar, yang melanjutkan perjuangan keluarganya melawan ketidakadilan.
+            \n\nKekuatan: Memiliki kemampuan berkomunikasi dengan semua bangsa burung; Menguasai ilmu bela diri yang tangguh dan kemampuan melompat dengan ringan.</item>
+        <item>Dari kostumnya sih Bro, lo bisa langsung tau kalau tokoh Cempaka ini adalah sosok yang mirip dengan Tarzan versi perempuan. Cempaka bakal diperankan oleh Vanesha Prescilla.10. </item>
+        <item>Tira yang bernama asli Susie adalah seorang mahasiswa yang punya kemampuan bela diri yang hebat. Tira menggunakan sebuah kostum berteknologi tinggi. Di dalam dirinya bersemayam sembilan siluman naga, yang kalau dirinya bermeditasi, siluman tersebut akan keluar dan memperlihatkan sosoknya sebagai 9 jenis raksasa. Kekuatannya adalah perpaduan bela diri dan penguasaan teknologi canggih, serta bisa memanggil 9 siluman raksasa.</item>
+        <item>Dengan nama asli Nani Wijaya, Sri Asih dikisahkan merupakan seorang wanita titisan Dewi Asih. Keseharian dirinya bekerja di biro penyelidikan kriminal. Nani bisa berubah jadi Sri Asih dengan berteriak “Dewi Asih” dan memiliki selendang dengan kekuatan super. Sri Asih Memiliki kekuatan setara dengan tenaga 250 pria dewasa, keahlian bela diri dan kemampuan terbang. Menguasai ilmu pamungkas (namun jarang digunakan) bertriwikarma menjadi raksasa yang dapat menggandakan diri.</item>
+        <item>Tokoh Dewi Api ini bakal diperankan oleh Dian Sastrowardoyo. Namun, belum ada informasi lengkap tentang siapa dan bagaimana karakter Dewi Api ini, begitupun dengan kekuatannya yang belum diketahui. Wah cocok nih jadi lawan main Aquanus yang diperankan Nicolas Saputra.</item>
+    </string-array>
+    <string-array name="character_image">
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%2012.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%2018.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%201.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%207.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%202.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%2015.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%205.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%209.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%2010.jpg</item>
+        <item>https://www.lazone.id/storage/news/Agustus/20%20Agustus/Mengenal%20Deretan%20Superhero%20di%20Bumi%20Langit%20(Part%20I)/BL%2011.jpg</item>
+    </string-array>
+</resources>
